@@ -1,6 +1,6 @@
 # Yulu_bike_sharing_demand_prediction
 
-![image](https://github.com/user-attachments/assets/44fe6fc0-fbce-4a10-9029-5b06a4837c12)
+
 
 ---
 # yulu Bike Sharing Demand Prediction
