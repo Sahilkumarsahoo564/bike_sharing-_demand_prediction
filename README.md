@@ -1,9 +1,4 @@
 # Yulu_bike_sharing_demand_prediction
-
-
-
----
-# yulu Bike Sharing Demand Prediction
 ---
 ## Objective
 
